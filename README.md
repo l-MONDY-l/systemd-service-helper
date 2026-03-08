@@ -71,15 +71,15 @@ Check service status:
 
 Supported Actions
 
- status <service>
- restart <service>
- start <service>
- stop <service>
- enable <service>
- disable <service>
- logs <service> [lines]
- failed
- list-running
+ - status <service>
+ - restart <service>
+ - start <service>
+ - stop <service>
+ - enable <service>
+ - disable <service>
+ - logs <service> [lines]
+ - failed
+ - list-running
 
 Example Output
 ```
