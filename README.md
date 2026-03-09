@@ -28,7 +28,6 @@ It provides a simple command-line wrapper for common service tasks such as check
 - Useful for daily Linux operations and troubleshooting
 
 ---
-
 ## Use Cases
 
 - Service troubleshooting
